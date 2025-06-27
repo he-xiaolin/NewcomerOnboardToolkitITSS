@@ -62,13 +62,13 @@ We especially welcome:
 
 ## 🙏 Acknowledgements
 
-Project lead & content author • **Xiaolin He** (TU Delft, IEEE P3439 Vice-Chair)  
-Thanks to ITSS Young Professionals, WiE volunteers, and ITSS Outreach Committee reviewers for invaluable feedback.
+Project lead & content author • **Xiaolin He** (TU Delft)  
+Thanks to ITSS Young Professionals for invaluable support.
 
 ---
 
 ## 📬 Contact
 
-**Email:** x.he@tudelft.nl 
+**Email:** x.he-2@tudelft.nl 
 
 Welcome to the ITSS family—see you at the next conference or webinar!
