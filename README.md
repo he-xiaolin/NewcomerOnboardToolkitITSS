@@ -9,8 +9,8 @@ It’s a concise, beginner-friendly starter pack that helps graduate students, P
 
 | File | Purpose |
 |------|---------|
-| **`Newcomer onboard toolkit for Early-Career ITSS members.pdf`** | A 10-page handbook arranged in an *“If you want X, then do Y”* format. It explains ITSS structure, opportunities, and step-by-step actions for newcomers. |
-| **`ITSS_Welcome_Video.mp4`** | A 2 minute introductory video that gives a warm welcome, explains why this toolkit exists, and highlights next steps for new members. https://youtu.be/xQcM4fqI2Co|
+| **`Newcomer onboard toolkit for Early-Career ITSS members.pdf`** | A handbook arranged in an *“If you want X, then do Y”* format. It explains ITSS structure, opportunities, and step-by-step actions for newcomers. |
+| **`ITSS_Welcome_Video.mp4`** | An introductory video that gives a warm welcome, explains why this toolkit exists, and highlights next steps for new members. https://youtu.be/xQcM4fqI2Co|
 
 
 ---
